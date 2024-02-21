@@ -6,7 +6,7 @@ Saya seorang **Front-End Web Developer**.<br>
 
 Saat ini saya sedang belajar di Dicoding.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, dilahkan ikuti akun [LinkIn](https://www.linkedin.com/in/priambododj).
+Jika kamu tertarik untuk berkenalan denganku, dilahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/priambododj).
 
 
 <p align="left">
